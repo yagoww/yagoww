@@ -1,5 +1,5 @@
 ### Oi, eu sou o Yago Araújo 👋
-- 🌱 Estudo na área de front-end - HTML, CSS, Javascript
+- 🌱 Atualemente, estudo na área de front-end - HTML, CSS, Javascript
 <div align="center">
   <a href="https://github.com/yagoww">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoww&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
